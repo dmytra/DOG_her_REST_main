@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/DOGGerRESTmain.jpg</file>
+    </qresource>
+</RCC>
